@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Line1 in master branch
+=======
+Line 1 in prod  branch
+>>>>>>> prod
